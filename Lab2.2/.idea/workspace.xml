@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f23acb4-a27f-4117-9839-43e940c9cd86" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iNUFVohA16GdZMHwKo1GcQRCc5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f23acb4-a27f-4117-9839-43e940c9cd86" name="Default Changelist" comment="" />
+      <created>1601747440102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601747440102</updated>
+      <workItem from="1601747446841" duration="1125000" />
+      <workItem from="1604638963726" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1365" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1601748326405">
+      <screen x="-2560" y="-367" width="2560" height="1417" />
+    </state>
+    <state x="-1365" y="163" key="#com.intellij.ide.util.MemberChooser/0.23.1680.973/-2560.-367.2560.1417@-2560.-367.2560.1417" timestamp="1601748326405" />
+    <state x="-1498" y="-34" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601747997749">
+      <screen x="-2560" y="-367" width="2560" height="1417" />
+    </state>
+    <state x="-1498" y="-34" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.973/-2560.-367.2560.1417@-2560.-367.2560.1417" timestamp="1601747997749" />
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1601747447911">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050/-2560.-390.2560.1440@0.0.1680.1050" timestamp="1601747447911" />
+  </component>
+</project>
